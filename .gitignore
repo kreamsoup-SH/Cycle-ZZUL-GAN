@@ -1,3 +1,6 @@
 celeba/
 zzul/
 checkpoints/
+src/__pycache__
+data/cons
+data/images
